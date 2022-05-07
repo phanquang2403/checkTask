@@ -6,3 +6,9 @@
   opacity: 1;
   background-color: red !important;
 }
+.section1-row {
+  height: 100vh;
+}
+.section2-row {
+  height: 100vh;
+}
